@@ -1,0 +1,6 @@
+channels = ["conda-forge"]
+
+[deps]
+# mlflow = "=2.0"
+mlflow = "==1.22.0"
+python = "==3.8"
